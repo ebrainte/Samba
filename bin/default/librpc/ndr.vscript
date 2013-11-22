@@ -1,0 +1,7 @@
+NDR_0.0.1 {
+	global:
+		ndr_*;
+		GUID_*;
+	local:
+		*;
+};
