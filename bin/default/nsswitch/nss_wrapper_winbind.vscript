@@ -1,4 +1,0 @@
-NSS_WRAPPER_WINBIND_2 {
-	global:
-		*;
-};

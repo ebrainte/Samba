@@ -1,2 +1,0 @@
-version = 0x105019
-tools = [{'tool': 'gnu_dirs', 'tooldir': None, 'funs': None}, {'tool': 'wafsamba', 'tooldir': None, 'funs': None}, {'tool': 'ar', 'tooldir': None, 'funs': None}, {'tool': 'cc', 'tooldir': None, 'funs': None}, {'tool': 'gcc', 'tooldir': None, 'funs': None}, {'tool': 'compiler_cc', 'tooldir': None, 'funs': None}, {'tool': 'gccdeps', 'tooldir': ['/root/samba-4.0.10/buildtools/wafsamba'], 'funs': None}, {'tool': 'python', 'tooldir': None, 'funs': None}, {'tool': 'perl', 'tooldir': None, 'funs': None}]

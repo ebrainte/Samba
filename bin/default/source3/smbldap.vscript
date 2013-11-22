@@ -1,6 +1,0 @@
-SMBLDAP_0 {
-	global:
-		smbldap_*;
-	local:
-		*;
-};

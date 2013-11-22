@@ -1,1 +1,0 @@
-/root/samba-4.0.10/python/samba/tests/blackbox/samba_tool_drs.py

@@ -1,4 +1,0 @@
-NSS_WINS_2 {
-	global:
-		*;
-};

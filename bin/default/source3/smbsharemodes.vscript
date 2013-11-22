@@ -1,4 +1,0 @@
-SMBSHAREMODES_0 {
-	global:
-		*;
-};

@@ -1,4 +1,0 @@
-DCERPC_ATSVC_0.0.1 {
-	global:
-		*;
-};

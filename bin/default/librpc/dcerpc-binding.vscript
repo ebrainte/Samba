@@ -1,4 +1,0 @@
-DCERPC_BINDING_0.0.1 {
-	global:
-		*;
-};

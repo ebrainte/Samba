@@ -1,4 +1,0 @@
-SAMBA_HOSTCONFIG_0.0.1 {
-	global:
-		*;
-};
